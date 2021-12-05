@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+}
+h1,h2,h3,h4,h5{
+    margin-bottom: 0;
+}
+
+header{
+    background-color: #562EFF;
+}
+.navbar-brand h4 {
+	color: #fff;
+	display: inline-block;
+	font-size: 25px;
+	margin-left: 15px;
+}
+.navbar-brand img{
+    height: 51px;
+}
+.nav-item {
+	line-height: 35px;
+}
+.top-content , .footer .container{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+h3 {
+	font-size: 24px;
+	font-weight: 500;
+	margin: 2.0rem;
+	color: #562EFF;
+}
+.top-player img{
+    height: 56px;
+}
+.player h4{
+    font-size: 18px;
+    font-weight: 500;
+}
+h5{
+    font-size: 20px;
+}
+.top-course img{
+    width: 177px;
+}
+.course-content{
+    padding-right: 1.5rem;
+}
+.course{
+    padding-left: 2.5rem;
+}
+.course-content span{
+    color: #562EFF;
+}
+.card{
+    border: none;
+}
+.writter-name{
+    color: #ED6B4F;
+}
+.ratings {
+    margin-right: 10px;
+}
+
+.ratings i {
+    color: #cecece;
+    font-size: 15px;
+    font-weight: 300px;
+}
+.rating-color {
+    color: #fbc634 !important
+}
+.offer-time {
+	background-color: #FEE5DF;
+	color: #FF4A60;
+	font-size: 15px;
+	font-weight: 400;
+}
+.offer-time i{
+    color: #FF4A60;
+}
